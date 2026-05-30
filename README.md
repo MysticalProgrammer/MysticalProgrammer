@@ -16,7 +16,6 @@
   <h2>About Me</h2>
 </div>
 <div align="center">
-diff
 + Based in Delta State, Nigeria | Open to Remote & Relocation
 + 5+ years shipping production apps for real businesses  
 + 6 production apps deployed | 100+ active users each
