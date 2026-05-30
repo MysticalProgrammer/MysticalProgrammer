@@ -40,15 +40,15 @@ diff
 <div align="center">
 <!-- Frontend -->
 <h3>🎨 Frontend</h3>
- Vue.js 
+ <span>Vue.js </span>
 
- SvelteKit 
+ <span>SvelteKit </span>
 
- Nuxt.js 
+ <span>Nuxt.js </span>
 
- React 
+ <span>React </span>
 
- Next.js 
+ <span>Next.js </span>
 <!-- Languages -->
 <h3>💻 Languages</h3>
  JavaScript 
