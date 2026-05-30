@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Oghaleoghene!;Frontend+Engineer+%F0%9F%9A%80;Vue+3+%C2%B7+SvelteKit+%C2%B7+Nuxt;Shipping+Production+Apps+Since+2019" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Oghaleoghene!;Frontend+Engineer;Vue+3+%C2%B7+SvelteKit+%C2%B7+Nuxt;Shipping+Production+Apps+Since+2019" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views Counter -->
@@ -23,45 +23,109 @@ diff
 + Specializing in Performance, SSR & Offline-First Architecture
 + Full-Stack Foundations | Building toward Backend & Mobile
 </div>
-<!-- Tech Stack Section -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Tech Stack Section with Icon Grid -->
 <div align="center">
   <h2>Tech Stack</h2>
 </div>
 <div align="center">
-<h3>Frontend</h3>
- Vue.js 
-
- SvelteKit 
-
- Nuxt.js 
-
- React 
-
- Next.js 
+<!-- Frontend Frameworks -->
+<h3>Frontend Frameworks</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="65" height="65" />
+      <br>Vue 3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="SvelteKit" width="65" height="65" />
+      <br>SvelteKit
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="65" height="65" />
+      <br>Nuxt
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+      <br>Next.js
+    </td>
+  </tr>
+</table>
+<!-- Languages -->
 <h3>Languages</h3>
- JavaScript 
-
- TypeScript 
-
- HTML5 
-
- CSS3 
-<h3>Styling & State</h3>
- TailwindCSS 
-
- Pinia 
-
- Redux 
-
- SCSS 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+<!-- Styling & State -->
+<h3>Styling & State Management</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="65" height="65" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="65" height="65" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="65" height="65" />
+      <br>Redux
+    </td>
+  </tr>
+</table>
+<!-- Tools & DevOps -->
 <h3>Tools & DevOps</h3>
- Git 
-
- Docker 
-
- Vercel 
-
- Netlify 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="65" height="65" />
+      <br>npm
+    </td>
+  </tr>
+</table>
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -164,15 +228,18 @@ diff
   <h2>GitHub Stats</h2>
 </div>
 <div align="center">
+<!-- GitHub Streak - Using reliable CDN -->
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MysticalProgrammer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MysticalProgrammer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="GitHub Streak" />
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MysticalProgrammer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
+<!-- GitHub Stats - Using reliable CDN -->
+<img src="https://github-readme-stats.vercel.app/api?username=MysticalProgrammer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalProgrammer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
+<!-- Top Languages - Using reliable CDN -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalProgrammer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&count_private=true" alt="Top Languages" />
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
