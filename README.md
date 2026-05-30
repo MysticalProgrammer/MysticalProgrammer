@@ -234,12 +234,12 @@ Based in Delta State, Nigeria | Open to Remote & Relocation
 
 
 <!-- GitHub Stats - Using reliable CDN -->
-<img src="https://github-readme-stats.vercel.app/api?username=MysticalProgrammer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MysticalProgrammer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true" alt="GitHub Stats" /> -->
 
 
 <!-- Top Languages - Using reliable CDN -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalProgrammer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&count_private=true" alt="Top Languages" />
-</div>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalProgrammer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&count_private=true" alt="Top Languages" />
+</div> -->
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Certifications Section -->
